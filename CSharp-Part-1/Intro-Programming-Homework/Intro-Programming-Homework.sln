@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hello World", "04. Hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Name", "05. Print Name\05. Print Name.csproj", "{A52D5031-76D1-40CA-923F-A60584EC8AB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Print Numbers", "06. Print Numbers\06. Print Numbers.csproj", "{317F3295-A9F3-4B77-82D7-433FB8E6F0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. First and Last Name", "07. First and Last Name\07. First and Last Name.csproj", "{8D3618C1-E125-48FA-9BE9-EE2D7C8BAF6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A52D5031-76D1-40CA-923F-A60584EC8AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A52D5031-76D1-40CA-923F-A60584EC8AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A52D5031-76D1-40CA-923F-A60584EC8AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317F3295-A9F3-4B77-82D7-433FB8E6F0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317F3295-A9F3-4B77-82D7-433FB8E6F0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317F3295-A9F3-4B77-82D7-433FB8E6F0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317F3295-A9F3-4B77-82D7-433FB8E6F0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3618C1-E125-48FA-9BE9-EE2D7C8BAF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3618C1-E125-48FA-9BE9-EE2D7C8BAF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3618C1-E125-48FA-9BE9-EE2D7C8BAF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3618C1-E125-48FA-9BE9-EE2D7C8BAF6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
